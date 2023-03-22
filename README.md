@@ -97,3 +97,5 @@ The whole process is conducted in the form of the smart contract, which ensures 
 
 
 **In case of any query, please feel free to contact me.**
+# Land_Registry
+# Land_Registry_1
